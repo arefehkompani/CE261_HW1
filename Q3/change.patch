@@ -1,21 +1,22 @@
 diff --git a/Q3/FileB.txt b/Q3/FileB.txt
-index 0ce09b5..79d6a0a 100644
+index 79d6a0a..61882e4 100644
 --- a/Q3/FileB.txt
 +++ b/Q3/FileB.txt
-@@ -1 +1,2 @@
--First sentence on B file
+@@ -1,2 +1,3 @@
+ First sentence on B file
+-Second sentence on file B
 \ No newline at end of file
-+First sentence on B file
 +Second sentence on file B
++hello world
 \ No newline at end of file
 diff --git a/Q3/FileC.txt b/Q3/FileC.txt
-index 99fab2f..01be2a8 100644
+index 01be2a8..fc438cd 100644
 --- a/Q3/FileC.txt
 +++ b/Q3/FileC.txt
-@@ -1 +1,2 @@
--First sentence on C file
+@@ -1,2 +1,3 @@
+ First sentence on C file
+-Second sentencce on C file
 \ No newline at end of file
-+First sentence on C file
 +Second sentencce on C file
++Hi guys
 \ No newline at end of file
-
