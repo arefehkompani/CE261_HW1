@@ -1,0 +1,21 @@
+diff --git a/Q3/FileB.txt b/Q3/FileB.txt
+index 0ce09b5..79d6a0a 100644
+--- a/Q3/FileB.txt
++++ b/Q3/FileB.txt
+@@ -1 +1,2 @@
+-First sentence on B file
+\ No newline at end of file
++First sentence on B file
++Second sentence on file B
+\ No newline at end of file
+diff --git a/Q3/FileC.txt b/Q3/FileC.txt
+index 99fab2f..01be2a8 100644
+--- a/Q3/FileC.txt
++++ b/Q3/FileC.txt
+@@ -1 +1,2 @@
+-First sentence on C file
+\ No newline at end of file
++First sentence on C file
++Second sentencce on C file
+\ No newline at end of file
+
