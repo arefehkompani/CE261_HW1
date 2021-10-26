@@ -1,1 +1,2 @@
 First sentence on B file
+Second sentence on file B
